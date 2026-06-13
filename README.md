@@ -38,7 +38,7 @@ Este no es un reto de fuerza bruta… es un reto de **observación y razonamient
 
 ### 1. Descarga el reto
 
-📥 [Descargar Requiem Cipher]((https://labs.thehackerslabs.com/machines/197))
+📥 [Descargar Requiem Cipher](https://labs.thehackerslabs.com/machines/197)
 
 ### 2. Analiza el archivo
 
